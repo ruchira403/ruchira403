@@ -1,6 +1,6 @@
 # HI I'M Ruchira Lakshitha Bandaranayake 👋
 
-![Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges](https://source.unsplash.com/1600x500/?software,engineering,technology)
+![Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges]
 
 ---
 
@@ -75,14 +75,6 @@
 
 ---
 
-## ✨ Animations
 
-### Header Animation
-I added a typing animation effect for my name "HI I'M Ruchira Lakshitha Bandaranayake." The text will appear as if it’s being typed out.
-
-### Moving Images Related to Software Engineering
-![Software Engineering](https://source.unsplash.com/1600x500/?software,engineering,technology)
-
----
 
 Thanks for stopping by! 😃
