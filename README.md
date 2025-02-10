@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Ruchira Lakshitha Bandaranayake
+### Hi there! 👋 I'm Ruchira
 
-![Header](https://source.unsplash.com/1600x500/?technology,programming)
+![Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges](https://source.unsplash.com/1600x500/?technology,programming)
 
 ---
 
@@ -42,7 +42,7 @@
 - To-do list with notifications & vibrations
 - Shared preferences for secure user data storage
 
-🔗 [GitHub Repo](https://github.com/yourusername/WorkoutApp)
+🔗 [GitHub Repo]([https://github.com/yourusername/WorkoutApp](https://github.com/ruchira403/Android-Application-workout-app-with-the-Todo-list-))
 
 ### 🌍 Java Online Tour Guide System
 🖥️ **Tech Stack:** HTML (Frontend) | Java (Backend) | MySQL (Database)  
@@ -50,7 +50,7 @@
 - Dynamic website with seamless UX
 - Integrated MySQL database for feedback & package management
 
-🔗 [GitHub Repo](https://github.com/yourusername/OnlineTourGuide)
+🔗 [GitHub Repo]([https://github.com/yourusername/OnlineTourGuide](https://github.com/ruchira403/Java-project-online-tour-guide-system-))
 
 ### 📦 MERN Packaging System
 🌍 **Skilled MERN stack developer** for full-stack solutions!  
@@ -59,7 +59,7 @@
 - Delivery tracking, inventory alerts, & machine maintenance modules
 - Scalable, optimized package management system
 
-🔗 [GitHub Repo](https://github.com/yourusername/PackagingSystem)
+🔗 [GitHub Repo]([https://github.com/yourusername/PackagingSystem](https://github.com/ruchira403/Mern-Project-Packaging-System-))
 
 ---
 
@@ -73,19 +73,6 @@
 ### 🎭 Fun Fact
 💡 *Code is like humor. When you have to explain it, it’s bad.* 😆
 
-### 🎬 Profile Animation
-```css
-@keyframes glow {
-  0% { text-shadow: 0 0 5px cyan; }
-  50% { text-shadow: 0 0 20px cyan; }
-  100% { text-shadow: 0 0 5px cyan; }
-}
 
-h1 {
-  animation: glow 2s infinite alternate;
-}
-```
 
 Thanks for stopping by! 😃
-
--->
