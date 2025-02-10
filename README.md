@@ -1,5 +1,34 @@
 # 💫 About Me:
-Hi, I'm Ruchira Lakshitha Bandaranayake 👋<br>Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges<br><br>🚀 About Me<br>🎓 Undergraduate | Pursuing a degree in Information Technology at SLIIT<br>💡 Passionate about technology, software development, and innovation!<br>📌 I enjoy building full-stack applications, mobile apps, and exploring emerging technologies.<br><br>🛠️ Tech Stack<br>💻 Programming Languages: C, C++, Java, Python, React, HTML, CSS<br>🗄️ Databases: MongoDB, MySQL<br>🎨 Designing Tools: Canva, Figma<br><br>📌 Projects<br>🏋️ Android Workout App with To-Do List<br>App Features:<br><br>Diet plans & muscle workout plans<br>Login system<br>To-do list with notifications & vibrations<br>Shared preferences for secure user data storage<br>🔗 GitHub Repo<br>🌍 Java Online Tour Guide System<br>Tech Stack: HTML (Frontend) | Java (Backend) | MySQL (Database)<br>Key Features:<br><br>Dynamic website with seamless UX<br>Integrated MySQL database for feedback & package management<br>🔗 GitHub Repo<br>📦 MERN Packaging System<br>🌍 Skilled MERN stack developer for full-stack solutions!<br>Features:<br><br>Client tracking & automated email workflows<br>Delivery tracking, inventory alerts, & machine maintenance modules<br>Scalable, optimized package management system<br>🔗 GitHub Repo<br>
+Hi, I'm Ruchira Lakshitha Bandaranayake 👋<br>Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges<br><br>🚀 About Me<br>🎓 Undergraduate | Pursuing a degree in Information Technology at SLIIT<br>💡 Passionate about technology, software development, and innovation!<br>📌 I enjoy building full-stack applications, mobile apps, and exploring emerging technologies.<br><br>🛠️ Tech Stack<br>💻 Programming Languages: C, C++, Java, Python, React, HTML, CSS<br>🗄️ Databases: MongoDB, MySQL<br>🎨 Designing Tools: Canva, Figma<br><br>
+
+
+## 📌 Projects
+
+### 🏋️ Android Workout App with To-Do List
+📱 **App Features:**
+- Diet plans & muscle workout plans
+- Login system
+- To-do list with notifications & vibrations
+- Shared preferences for secure user data storage
+
+🔗 [GitHub Repo](https://github.com/ruchira403/Android-Application-workout-app-with-the-Todo-list-)
+
+### 🌍 Java Online Tour Guide System
+🖥️ **Tech Stack:** HTML (Frontend) | Java (Backend) | MySQL (Database)  
+📌 **Key Features:**
+- Dynamic website with seamless UX
+- Integrated MySQL database for feedback & package management
+
+🔗 [GitHub Repo](https://github.com/ruchira403/Java-project-online-tour-guide-system-)
+
+### 📦 MERN Packaging System
+🌍 **Skilled MERN stack developer** for full-stack solutions!  
+🚀 **Features:**
+- Client tracking & automated email workflows
+- Delivery tracking, inventory alerts, & machine maintenance modules
+- Scalable, optimized package management system
+
+🔗 [GitHub Repo](https://github.com/ruchira403/Mern-Project-Packaging-System-)
 
 
 ## 🌐 Socials:
