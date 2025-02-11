@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI!+I'M+Ruchira+Lakshitha+Bandaranayake+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI!+I'M+Ruchira+Bandaranayake)](https://git.io/typing-svg)
 
 
 
