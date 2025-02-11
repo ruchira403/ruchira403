@@ -4,7 +4,7 @@
 
 
 
-Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges<br><br>🚀 About Me<br>🎓 Undergraduate | Pursuing a degree in Information Technology at SLIIT<br>💡 Passionate about technology, software development, and innovation!<br>📌 I enjoy building full-stack applications, mobile apps, and exploring emerging technologies.<br><br>🛠️ Tech Stack<br>💻 Programming Languages: C, C++, Java, Python, React, HTML, CSS<br>🗄️ Databases: MongoDB, MySQL<br>🎨 Designing Tools: Canva, Figma<br><br>
+Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges<br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🚀+About+Me)](https://git.io/typing-svg)<br>🎓 Undergraduate | Pursuing a degree in Information Technology at SLIIT<br>💡 Passionate about technology, software development, and innovation!<br>📌 I enjoy building full-stack applications, mobile apps, and exploring emerging technologies.<br><br>🛠️ Tech Stack<br>💻 Programming Languages: C, C++, Java, Python, React, HTML, CSS<br>🗄️ Databases: MongoDB, MySQL<br>🎨 Designing Tools: Canva, Figma<br><br>
 
 
 ## 📌 Projects
