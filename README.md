@@ -4,17 +4,17 @@
 
 
 
-Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges<br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🚀+About+Me)](https://git.io/typing-svg)<br>🎓 Undergraduate | Pursuing a degree in Information Technology at SLIIT<br>💡 Passionate about technology, software development, and innovation!<br>📌 I enjoy building full-stack applications, mobile apps, and exploring emerging technologies.<br><br>🛠️ Tech Stack<br>💻 Programming Languages: C, C++, Java, Python, React, HTML, CSS<br>🗄️ Databases: MongoDB, MySQL<br>🎨 Designing Tools: Canva, Figma<br><br>
+Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tech Challenges<br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🚀+About+Me)](https://git.io/typing-svg)<br>🎓 Undergraduate | Pursuing a degree in Information Technology at SLIIT<br>💡 Passionate about technology, software development, and innovation!<br>📌 I enjoy building full-stack applications, mobile apps, and exploring emerging technologies.<br><br>🛠️ Tech Stack<br>💻 Programming Languages: C, C++, Java, Python, React, HTML, CSS<br>🗄️ Databases: MongoDB, MySQL<br>🎨 Designing Tools: Canva, Figma<br><br><br>
 
 <p align="center">
-  I'm a dedicated frontend developer with a passion for creating engaging and dynamic user interfaces. I'm constantly learning and improving my skills in web development, mobile apps, and UI/UX design.
+𝗜'𝗠 𝗔 𝗗𝗘𝗗𝗜𝗖𝗔𝗧𝗘𝗗 𝗙𝗥𝗢𝗡𝗧𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗪𝗜𝗧𝗛 𝗔 𝗣𝗔𝗦𝗦𝗜𝗢𝗡 𝗙𝗢𝗥 𝗖𝗥𝗘𝗔𝗧𝗜𝗡𝗚 𝗘𝗡𝗚𝗔𝗚𝗜𝗡𝗚 𝗔𝗡𝗗 𝗗𝗬𝗡𝗔𝗠𝗜𝗖 𝗨𝗦𝗘𝗥 𝗜𝗡𝗧𝗘𝗥𝗙𝗔𝗖𝗘𝗦. 𝗜'𝗠 𝗖𝗢𝗡𝗦𝗧𝗔𝗡𝗧𝗟𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 𝗔𝗡𝗗 𝗜𝗠𝗣𝗥𝗢𝗩𝗜𝗡𝗚 𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 𝗜𝗡 𝗪𝗘𝗕 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧, 𝗠𝗢𝗕𝗜𝗟𝗘 𝗔𝗣𝗣𝗦, 𝗔𝗡𝗗 𝗨𝗜/𝗨𝗫 𝗗𝗘𝗦𝗜𝗚𝗡.
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611p1umdwvn2riohavi91ucs2uhg19uti176lb2iyq7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
 </p>
 
-## 📌 Projects
+## 📌 Projects    
 
 ### 🏋️ Android Workout App with To-Do List
 📱 **App Features:**
