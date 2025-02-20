@@ -16,7 +16,7 @@ Forward-Thinking IT Student at SLIIT | Team Leader Equipped for Tomorrow’s Tec
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611p1umdwvn2riohavi91ucs2uhg19uti176lb2iyq7&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src=""https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true"><br><br>
 
 ## 📌 Projects    
 
